@@ -11,7 +11,7 @@ still blank ? try click blank view like it<br>
 
 - New encrypted
 - add png version
-- new server on [https://up.zsec.dev](url)
+- new server on [https://up.zsec.dev]
 - 666 query have a 2 function
 > target.com/666.php?666 for uploader <br>
 > target.com/666.php?666=YourCommand for shell
